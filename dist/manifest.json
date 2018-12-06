@@ -1,6 +1,6 @@
 {
-  "short_name": "Reloanr App",
-  "name": "Reloanr Application using React",
+  "short_name": "react-redux-starter App",
+  "name": "react-redux-starter Application using React",
   "icons": [
     {
       "src": "favicon.ico",
